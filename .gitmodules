@@ -1,0 +1,3 @@
+[submodule "gameoflife/game-of-life"]
+	path = gameoflife/game-of-life
+	url = git@github.com:BasicEC/game-of-life.git
